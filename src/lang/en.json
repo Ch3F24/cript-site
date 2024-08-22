@@ -1,0 +1,9 @@
+{
+    "navigation": {
+        "exploration": "exploration",
+        "movies": "movies",
+        "stories": "stories",
+        "findings": "findings",
+        "favor_items": "favor items"
+    }
+}

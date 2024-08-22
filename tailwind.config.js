@@ -9,6 +9,9 @@ export default {
       colors: {
         'fuscous-grayd': '#54554A',
       },
+      fontFamily: {
+        'sans': ['Inter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
