@@ -19,7 +19,6 @@ const lngs = {
 };
 
 const LanguageSwitcher = () => {
-
     const { i18n } = useTranslation();
 
     return (

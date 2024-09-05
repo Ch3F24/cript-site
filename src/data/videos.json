@@ -1,0 +1,98 @@
+[
+    {
+        "title": {
+            "hu": "Video",
+            "en": "Video"
+        },
+        "description": {
+            "hu": "hu video2",
+            "en": "EN video2"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video2",
+            "en": "Video2"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/storyvideo.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/storyvideo.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    },
+    {
+        "title": {
+            "hu": "Video3",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": "hu video",
+            "en": "EN video"
+        },
+        "src": "/videos/animation.mp4",
+        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+    }
+]

@@ -7,8 +7,19 @@ import Modal from "./Modal"
 import { useState } from "react"
 import LanguageSwitcher from "./LangSwitcher"
 import { useTranslation } from "react-i18next"
+import { useVideoContext } from '../Context/VideoContext';
+import Explorations from "./Explorations"
+import Movies from "./Movies"
+import Gallery from "./Gallery"
+import findingData from '../data/findings.json'; 
+import favorItems from '../data/favor_items.json'; 
+
+type contentType = 'exploration' | 'movies' | 'stories' | 'findings' | 'favor_items'
+
 
 const Navigation = () => {
+    const { startVideo } = useVideoContext();
+    const [content, setContent] = useState<null | JSX.Element>(null);
 
     const { t } = useTranslation()
 
@@ -18,7 +29,17 @@ const Navigation = () => {
         setIsOpen(false)
     }
 
-    const openModal = () => {
+    const openModal = (type: contentType) => {
+        if (type === 'exploration') {
+            setContent(<Explorations closeModal={closeModal} />)
+        } else if (type === 'movies') {
+            setContent(<Movies closeModal={closeModal} />)
+        } else if (type === 'findings') {
+            setContent(<Gallery closeModal={closeModal} images={findingData} />)
+        } else if (type === 'favor_items') { 
+            setContent(<Gallery closeModal={closeModal} images={favorItems} />)
+        }
+        
         setIsOpen(true)
     }
 
@@ -29,19 +50,19 @@ const Navigation = () => {
             <LanguageSwitcher />
 
             <Modal isOpen={isOpen} closeModal={closeModal}>
-
+                { content }
             </Modal>
 
             <div className="py-32 px-52 h-full flex">
 
                 <div className="flex flex-col justify-between h-full">
 
-                    <div onClick={openModal}>
+                    <div onClick={() => openModal('exploration')}>
                         <img src={exploration} alt="exploration" className="cursor-pointer" />
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.exploration")}</h2>
                     </div>
 
-                    <div>
+                    <div onClick={() => openModal('movies')}>
                         <img src={movies} alt="movies" className="cursor-pointer" />
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.movies")}</h2>
                     </div>
@@ -49,19 +70,19 @@ const Navigation = () => {
                 </div>
 
                 <div className="mx-auto items-center flex">
-                    <div>
+                    <div onClick={startVideo}>
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mb-16">{t("navigation.stories")}</h2>
                         <img src={stories} alt="stories" className="cursor-pointer" />
                     </div>
                 </div>
 
                 <div className="flex flex-col justify-between h-full">
-                    <div>
+                    <div onClick={() => openModal('findings')}>
                         <img src={findings} alt="findings" className="cursor-pointer" />
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.findings")}</h2>
                     </div>
 
-                    <div>
+                    <div onClick={() => openModal('favor_items')}>
                         <img src={favor_items} alt="favor_items" className="cursor-pointer" />
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.favor_items")}</h2>
                     </div>
