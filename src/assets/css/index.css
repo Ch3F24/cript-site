@@ -10,4 +10,5 @@
 }
 html, body {
     overscroll-behavior: none;
+    zoom: 33%;
 }
