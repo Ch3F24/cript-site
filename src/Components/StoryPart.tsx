@@ -33,7 +33,7 @@ const StoryPart = () => {
 
   return (
     <>
-      <video ref={videoRef} src={video} playsInline className='w-full h-full object-cover absolute top-0 left-0'>
+      <video ref={videoRef} src={video} playsInline disablePictureInPicture className='w-full h-full object-cover absolute top-0 left-0'>
         <track
           label="English"
           kind="subtitles"

@@ -61,7 +61,7 @@ const Gallery:React.FC<{ closeModal: () => void, images: ImageProps[], title: st
                             
                             <div className="h-full mx-auto relative">
                                 {isVideo ? 
-                                    <video ref={videoRef} src={selected?.src} className="w-auto h-full mx-auto" loop autoPlay muted playsInline></video>
+                                    <video ref={videoRef} src={selected?.src} className="w-auto h-full mx-auto" loop autoPlay muted playsInline disablePictureInPicture></video>
                                     :
                                     <img src={selected?.src} className="w-auto h-full mx-auto" />
                                 }

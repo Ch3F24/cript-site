@@ -69,7 +69,7 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
                             </div>
                             
                             <div className="h-full mx-auto relative">
-                                <video ref={video} className="w-auto h-full mx-auto" src={selected?.src} autoPlay playsInline controls >
+                                <video ref={video} className="w-auto h-full mx-auto" src={selected?.src} autoPlay playsInline controls disablePictureInPicture>
                                     <track
                                         label="English"
                                         kind="subtitles"

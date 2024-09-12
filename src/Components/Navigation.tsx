@@ -39,7 +39,7 @@ const Navigation = () => {
                 setIsOpen(true)
             }
         } else if (type === 'findings') {
-            setContent(<Gallery closeModal={closeModal} images={findingData} title="Leletek" isVideo={true} />)
+            setContent(<Gallery closeModal={closeModal} images={findingData} title="Lelete2" isVideo={true} />)
             setIsOpen(true)
         } else if (type === 'favor_items') { 
             setContent(<Gallery closeModal={closeModal} images={favorItems} title="Kegytárgyak" />)
