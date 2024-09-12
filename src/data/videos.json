@@ -1,98 +1,347 @@
 [
     {
         "title": {
-            "hu": "Video",
-            "en": "Video"
+            "hu": "Mit láttak a gyulakutaiak?",
+            "en": "What did the locals see?",
+            "ro": "Ce au văzut localnicii?"
         },
         "description": {
-            "hu": "hu video2",
-            "en": "EN video2"
+            "hu": [
+                "Lelkész: 2020-ban kezdtük meg az ásatásokat a templomban és a templom környékén, a Marosmegyei Múzeumnak a munkatársai, mivelhogy oda tartozik a terület, őket kértük meg arra, hogy itt ássanak..."
+            ],
+            "en": [
+                "Priest: In 2020, excavation works commenced at the church and its vicinity, conducted by the staff of the Mureș County Museum, as the area falls within their jurisdiction."
+            ],
+            "ro": [
+                "Pastorul: În 2020, au început săpăturile în incinta și în jurul bisericii. I-am rugat pe cei de la Muzeul Județean Mureș, pentru că zona le aparține, să facă săpături aici..."
+            ]
         },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Kulcsár-Rabocskai Levente",
+                    "lelkész"
+                ],
+                [
+                    "Tar László",
+                    "vállalkozó"
+                ],
+                [
+                    "Kovács László",
+                    "presbiter" 
+                ]
+            ],
+            "en": [
+                [
+                    "Levente Kulcsár-Rabocskai",
+                    "priest"
+                ],
+                [
+                    "László Tar",
+                    "entrepreneur"
+                ],
+                [
+                    "László Kovács",
+                    "presbyter" 
+                ]
+            ],
+            "ro": [
+                [
+                    "Levente Kulcsár-Rabocskai",
+                    "preot"
+                ],
+                [
+                    "László Tar",
+                    "anteprenor"
+                ],
+                [
+                    "László Kovács",
+                    "prezbiter" 
+                ]
+            ]
+        },
+        "src": "movies/videos/a_helyi_ember_szemszoge.mp4",
+        "cover": "movies/covers/a_helyi_ember_szemszoge.jpg"
+    },
+    {
+       "title": {
+            "hu": "Mit talált a régész a kriptában?",
+            "en": "What did the archaeologist find in the crypt?",
+            "ro": "Ce a descoperit arheologul în criptă?"
+        },
+        "description": {
+            "hu": [
+                "2021-ben egy átfogó régészeti kutatásra került sor a gyulakutai református templomban, ami azt jelentette, hogy a templom belsejét és a templomkertet érintően 19 kutatóárkot, régészeti szelvényt húztunk ki.."
+            ],
+            "en": [
+                "In 2021, a comprehensive archaeological study was conducted in the Reformed church of Fântânele, involving the excavation of 19 archaeological trenches, covering both the interior of the church and the churchyard..."
+            ],
+            "ro": [
+                "În 2021, în biserica reformată din Fântânele a fost efectuată o cercetare arheologică cuprinzătoare, ceea ce a însemnat că au fost executate 19 șanțuri de cercetare și secțiuni arheologice în interiorul și în curtea bisericii..."
+            ]
+        },
+        "characters": {
+            "hu": [
+                [
+                    "Gál Szilárd Sándor",
+                    "régész"
+                ]
+            ],
+            "en": [
+                [
+                    "Szilárd Sándor Gál",
+                    "archaeologist"
+                ]
+            ],
+            "ro": [
+                [
+                    "Szilárd Sándor Gál",
+                    "arheolog"
+                ]
+            ]
+        },
+        "src": "movies/videos/regeszeti_anyagok.mp4",
+        "cover": "movies/covers/regeszeti_anyagok.jpg"
     },
     {
         "title": {
-            "hu": "Video2",
-            "en": "Video2"
+            "hu": "Hogyan épült a templom?",
+            "en": "How was the church built?",
+            "ro": "Cum a fost construită biserica?"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "A templom felújításását megelőző kutatások révén – gondolok itt főleg a falkutatások és a régészeti ásatások eredményeire – nagy mértékben sikerült tisztázni a templom különféle építési szakaszait..."
+            ],
+            "en": [
+                "Through the research conducted prior to the church’s renovation – particularly referring to the findings of wall studies and archaeological excavations – the various construction phases of the church have been significantly clarified..."
+            ],
+            "ro": [
+                "Cercetările efectuate înainte de restaurarea bisericii – mai ales rezultatele sondajelor pereților și ale săpăturilor arheologice – au făcut posibilă clarificarea în mare măsură a diferitelor etape de construcție a bisericii..."
+            ]
         },
-        "src": "/videos/storyvideo.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
+        },
+        "src": "movies/videos/hogyan_epult_a_templom.mp4",
+        "cover": "movies/covers/hogyan_epult_a_templom.jpg"
     },
     {
         "title": {
-            "hu": "Video3",
-            "en": "Video3"
+            "hu": "Mit ábrázolnak a falképek?",
+            "en": "What do the murals depict?",
+            "ro": "Ce reprezintă picturile murale?"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "Itt állunk Gyulakuta református templomának a hajójában. A templomnak ez a része már a 14. században bizonyosan állott, és az elmúlt évek kutatási tevékenysége során feltárult számos érdekes műrészlet közül ezt a templomnak a falképei is bizonyítják..."
+            ],
+            "en": [
+                "We are now standing in the nave of the Fântânele Reformed church. This part of the church certainly existed in the 14th century, as evidenced by various interesting details uncovered during recent years of research, including the church’s murals..."
+            ],
+            "ro": [
+                "Ne aflăm în naosul bisericii reformate din Fântânele. Această parte a bisericii era cu siguranță existentă deja în secolul al XIV-lea, picturile murale descoperite în ultimii ani fiind o dovadă în acest sens..."
+            ]
         },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
+        },
+        "src": "movies/videos/mit_abrazolnak_a_falkepek.mp4",
+        "cover": "movies/covers/mit_abrazolnak_a_falkepek.jpg"
     },
     {
         "title": {
-            "hu": "Video3",
-            "en": "Video3"
+            "hu": "Hogyan készültek a falképek?",
+            "en": "How were the murals made?",
+            "ro": "Cum au fost realizate picturile murale?"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "A templomhajó falképei, illetve a diadalív falképei is több periódusban készültek. Annyit tudni kell a falképfestésnek a technikájáról, hogy a korai falképek, a freskók egy sokkal nehezebb technika révén készültek el..."
+            ],
+            "en": [
+                "The murals in the nave of the church, as well as those on the triumphal arch, were created in several periods. It’s important to note that the technique of mural painting evolved over time..."
+            ],
+            "ro": [
+                "Picturile murale ale naosului și ale arcului de triumf au fost executate în mai multe perioade. Ceea ce trebuie să știm despre tehnica picturii murale este că..."
+            ]
         },
-        "src": "/videos/storyvideo.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
+        },
+        
+        "src": "movies/videos/hogyan_keszultek_a_falkepek.mp4",
+        "cover": "movies/covers/hogyan_keszultek_a_falkepek.jpg"
     },
     {
         "title": {
-            "hu": "Video3",
-            "en": "Video3"
+            "hu": "A kazettás mennyezet",
+            "en": "The coffered ceiling",
+            "ro": "Tavanul casetat"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "A templom kétségkívül leglátványosabb elemének a szentélyt borító kazettás mennyezet számít, tulajdonképpen Erdély egyik korai fennmaradt kazettás mennyezetéről van szó, ismerjük a keletkezés idejét: 1625-ben készült..."
+            ],
+            "en": [
+                "Undoubtedly, the most striking element of the church is the coffered ceiling covering the sanctuary, essentially one of the early surviving coffered ceilings in Transylvania. We know its date of origin: it was made in 1625..."
+            ],
+            "ro": [
+                "Cel mai spectaculos element al bisericii este fără îndoială tavanul casetat care acoperă sanctuarul, de fapt, unul dintre cele mai vechi din Transilvania. Cunoaștem data exactă a creării sale: a fost realizat în 1625..."
+            ]
         },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
+        },
+        "src": "movies/videos/a_kazettas_mennyezet.mp4",
+        "cover": "movies/covers/a_kazettas_mennyezet.jpg"
     },
     {
         "title": {
-            "hu": "Video3",
-            "en": "Video3"
+            "hu": "Ki festette a kazettás mennyezetet?",
+            "en": "Who painted the coffered ceiling?",
+            "ro": "Cine a pictat tavanul casetat?"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "A mai napig talányos a mennyezetet elkészítő mesternek a kiléte, ugyanis az ő személyére konkrét levéltári forrással, adattal nem rendelkezünk..."
+            ],
+            "en": [
+                "The identity of the master who painted the coffered ceiling remains mysterious to this day, as we do not have specific archival sources or data about him..."
+            ],
+            "ro": [
+                "Identitatea maestrului care a realizat tavanul rămâne un mister, deoarece nu dispunem de surse arhivistice sau de date specifice despre el..."
+            ]
         },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
+        },
+        "src": "movies/videos/ki_festette_a_kazettas_mennyezetet.mp4",
+        "cover": "movies/covers/ki_festette_a_kazettas_mennyezetet.jpg"
     },
     {
         "title": {
-            "hu": "Video3",
-            "en": "Video3"
+            "hu": "Sírkövek a templomban?",
+            "en": "Tombstones in the church?",
+            "ro": "Monumente funerare în biserică?"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "Igen érdekes és figyelemreméltó együttesét képezik a templomnak a templombelsőben fennmaradt, kőbe faragott síremlékek, ezek közül különösek fontosak a 17. századiak, ilyenből három is van..."
+            ],
+            "en": [
+                "A particularly interesting and noteworthy ensemble in the interior of the church is formed by the surviving carved tombstones. Among these, those from the 17th century are especially important, of which there are three..."
+            ],
+            "ro": [
+                "Un ansamblu foarte interesant și remarcabil al bisericii sunt monumentele funerare sculptate care se păstrează în interiorul bisericii..."
+            ]
         },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
-    },
-    {
-        "title": {
-            "hu": "Video3",
-            "en": "Video3"
+        "characters": {
+            "hu": [
+                [
+                    "Fehér János",
+                    "művészettörténész"
+                ]
+            ],
+            "en": [
+                [
+                    "János Fehér",
+                    "art historian"
+                ]
+            ],
+            "ro": [
+                [
+                    "János Fehér",
+                    "istoric de artă"
+                ]
+            ]
         },
-        "description": {
-            "hu": "hu video",
-            "en": "EN video"
-        },
-        "src": "/videos/animation.mp4",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "movies/videos/sirkovek_a_templomban.mp4",
+        "cover": "movies/covers/sirkovek_a_templomban.jpg"
     }
 ]

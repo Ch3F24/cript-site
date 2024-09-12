@@ -1,5 +1,5 @@
 
-const Modal: React.FC<{ isOpen: boolean, closeModal: () => void, children: React.ReactNode }> = ({ isOpen, closeModal, children }) => {
+const Modal: React.FC<{ isOpen: boolean, children: React.ReactNode }> = ({ isOpen, children }) => {
     
     if (!isOpen) return null;
 

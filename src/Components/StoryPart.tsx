@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import video from '../../public/videos/animation.mp4';
+import video from '../../public/videos/bg-video.mp4';
 import { useVideoContext } from '../Context/VideoContext';
 import { useTranslation } from "react-i18next"
 
@@ -33,7 +33,7 @@ const StoryPart = () => {
 
   return (
     <>
-      <video ref={videoRef} src={video} playsInline className='w-full h-full object-cover'>
+      <video ref={videoRef} src={video} playsInline className='w-full h-full object-cover absolute top-0 left-0'>
         <track
           label="English"
           kind="subtitles"

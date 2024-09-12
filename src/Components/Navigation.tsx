@@ -12,13 +12,13 @@ import Explorations from "./Explorations"
 import Movies from "./Movies"
 import Gallery from "./Gallery"
 import findingData from '../data/findings.json'; 
-import favorItems from '../data/favor_items.json'; 
+import favorItems from '../data/favor_items.json';
 
 type contentType = 'exploration' | 'movies' | 'stories' | 'findings' | 'favor_items'
 
 
 const Navigation = () => {
-    const { startVideo } = useVideoContext();
+    const { startVideo, isPlaying } = useVideoContext();
     const [content, setContent] = useState<null | JSX.Element>(null);
 
     const { t } = useTranslation()
@@ -32,15 +32,19 @@ const Navigation = () => {
     const openModal = (type: contentType) => {
         if (type === 'exploration') {
             setContent(<Explorations closeModal={closeModal} />)
+            setIsOpen(true)
         } else if (type === 'movies') {
-            setContent(<Movies closeModal={closeModal} />)
+            if (!isPlaying()) {
+                setContent(<Movies closeModal={closeModal} />)
+                setIsOpen(true)
+            }
         } else if (type === 'findings') {
-            setContent(<Gallery closeModal={closeModal} images={findingData} />)
+            setContent(<Gallery closeModal={closeModal} images={findingData} title="Leletek" isVideo={true} />)
+            setIsOpen(true)
         } else if (type === 'favor_items') { 
-            setContent(<Gallery closeModal={closeModal} images={favorItems} />)
-        }
-        
-        setIsOpen(true)
+            setContent(<Gallery closeModal={closeModal} images={favorItems} title="Kegytárgyak" />)
+            setIsOpen(true)
+        }        
     }
 
 
@@ -49,7 +53,7 @@ const Navigation = () => {
             
             <LanguageSwitcher />
 
-            <Modal isOpen={isOpen} closeModal={closeModal}>
+            <Modal isOpen={isOpen}>
                 { content }
             </Modal>
 

@@ -1,98 +1,182 @@
 [
     {
         "title": {
-            "hu": "Video",
-            "en": "Video"
+            "hu": "KOPONYA",
+            "en": "KOPONYA"
         },
         "description": {
-            "hu": "hu video2",
-            "en": "EN video2"
+            "hu": [
+                "17. század",
+                "fiatal nő koponyamaradványa, zöldes pártadísz lenyomattal"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/koponya.mp4",
+        "cover": "/findings/cover/koponya.gif"
     },
     {
         "title": {
-            "hu": "Video2",
+            "hu": "BETHLEN SZOFI KARIKAGYŰRŰJE",
             "en": "Video2"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: arany",
+                "technika: öntött, vésett",
+                "díszítmény: átlőtt szív (belül)",
+                "felirata: Bethlen Szofi"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/gyuru02.mp4",
+        "cover": "/findings/cover/gyuru02.gif"
+
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "NŐI KÖVES GYŰRŰ",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: arany",
+                "technika: öntött, vésett, reszelt",
+                "díszítmény: türkiz kő"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/gyuru03.mp4",
+        "cover": "/findings/cover/gyuru03.gif"
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "VIRÁGOS NŐI GYŰRŰ",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: arany",
+                "technika: öntött, vésett, reszelt",
+                "díszítmény: fejrésze virágszirmokat utánoz, türkiz kövekkel díszített"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/gyuru04.mp4",
+        "cover": "/findings/cover/gyuru04.gif"
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "PECSÉTGYŰRŰ",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: arany",
+                "technika: öntött, vésett",
+                "díszítmény: valószínűleg családi címert ábrázoló fejrész"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/gyuru01.mp4",
+        "cover": "/findings/cover/gyuru01.gif"
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "TEXTILSZÁL",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: növényi eredetű fonal"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/textilszal.mp4",
+        "cover": "/findings/cover/textilszal.gif"
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "KOPORSÓSZEG",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: ezüst",
+                "technika: kalapált, reszelt"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/koporsoszeg.mp4",
+        "cover": "/findings/cover/koporsoszeg.gif"
     },
     {
         "title": {
-            "hu": "Video3",
+            "hu": "CSILLAG",
             "en": "Video3"
         },
         "description": {
-            "hu": "hu video",
-            "en": "EN video"
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: ezüst",
+                "technika: kalapált, reszelt"
+            ],
+            "en": []
         },
-        "src": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg",
-        "cover": "https://images.pexels.com/photos/27855229/pexels-photo-27855229/free-photo-of-a-woman-in-a-skirt-leaning-against-a-wall.jpeg"
+        "src": "/findings/videos/csillag.mp4",
+        "cover": "/findings/cover/csillag.gif"
+    },
+    {
+        "title": {
+            "hu": "BROSS",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": [
+                "keltezés: 17. század",
+                "származás: Oszmán Birodalom",
+                "anyag: arany",
+                "technika: öntött, hajlított"
+            ],
+            "en": []
+        },
+        "src": "/findings/videos/bross.mp4",
+        "cover": "/findings/cover/bross.gif"
+    },
+    {
+        "title": {
+            "hu": "TEXTILMARADVÁNY",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: fémszállal díszített fonal"
+            ],
+            "en": []
+        },
+        "src": "/findings/videos/textil.mp4",
+        "cover": "/findings/cover/textil.gif"
+    },
+    {
+        "title": {
+            "hu": "RUHADÍSZ",
+            "en": "Video3"
+        },
+        "description": {
+            "hu": [
+                "keltezés: 17. század",
+                "anyag: vas",
+                "technika: kalapált, hajlított"
+            ],
+            "en": []
+        },
+        "src": "/findings/videos/ruhadisz.mp4",
+        "cover": "/findings/cover/ruhadisz.gif"
     }
 ]
