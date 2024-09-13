@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react"
+import React, { useEffect, useRef, useState } from "react"
 import ModalClose from "./ModalClose"
 import videos from '../data/videos.json';
 import { useTranslation } from "react-i18next";
@@ -35,9 +35,22 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
         setSelected(videoList[key])
     }
 
-    // useEffect(() => {
-    //     setSelected(videoList[0])
-    // },[videoList])
+    useEffect(() => {
+        if (video.current) {
+          const tracks = video.current.textTracks;
+          const languageModeMap: Record<string, ['showing' | 'hidden', 'showing' | 'hidden']> = {
+            'en': ['showing', 'hidden'],
+            'ro': ['hidden', 'showing'],
+            'hu': ['hidden', 'hidden'],
+          };
+          
+          const resolvedLanguage = i18n.resolvedLanguage || 'hu';
+          const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
+    
+          tracks[0].mode = mode0;
+          tracks[1].mode = mode1;
+        }
+      }, [i18n.resolvedLanguage]);
 
     return (
         <div className="relative h-full flex flex-col">
@@ -69,7 +82,7 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
                             </div>
                             
                             <div className="h-full mx-auto relative">
-                                <video ref={video} className="w-auto h-full mx-auto" src={selected?.src} autoPlay playsInline controls disablePictureInPicture>
+                                <video ref={video} className="w-auto h-full mx-auto" src={selected?.src} autoPlay playsInline disablePictureInPicture>
                                     <track
                                         label="English"
                                         kind="subtitles"
