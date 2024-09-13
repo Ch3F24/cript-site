@@ -12,7 +12,7 @@ import Explorations from "./Explorations"
 import Movies from "./Movies"
 import Gallery from "./Gallery"
 import findingData from '../data/findings.json'; 
-import favorItems from '../data/favor_items.json';
+import religiousArtifacts from '../data/religious_artifacts.json';
 
 type contentType = 'exploration' | 'movies' | 'stories' | 'findings' | 'favor_items'
 
@@ -42,7 +42,7 @@ const Navigation = () => {
             setContent(<Gallery closeModal={closeModal} images={findingData} title="Lelete2" isVideo={true} />)
             setIsOpen(true)
         } else if (type === 'favor_items') { 
-            setContent(<Gallery closeModal={closeModal} images={favorItems} title="Kegytárgyak" />)
+            setContent(<Gallery closeModal={closeModal} images={religiousArtifacts} title="Kegytárgyak" />)
             setIsOpen(true)
         }        
     }

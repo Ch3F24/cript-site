@@ -12,7 +12,8 @@
             "en": []
         },
         "src": "/findings/videos/koponya.mp4",
-        "cover": "/findings/cover/koponya.gif"
+        "cover": "/findings/cover/koponya.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -30,7 +31,8 @@
             "en": []
         },
         "src": "/findings/videos/gyuru02.mp4",
-        "cover": "/findings/cover/gyuru02.gif"
+        "cover": "/findings/cover/gyuru02.gif",
+        "is_video": false
 
     },
     {
@@ -48,7 +50,8 @@
             "en": []
         },
         "src": "/findings/videos/gyuru03.mp4",
-        "cover": "/findings/cover/gyuru03.gif"
+        "cover": "/findings/cover/gyuru03.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -65,7 +68,8 @@
             "en": []
         },
         "src": "/findings/videos/gyuru04.mp4",
-        "cover": "/findings/cover/gyuru04.gif"
+        "cover": "/findings/cover/gyuru04.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -82,7 +86,8 @@
             "en": []
         },
         "src": "/findings/videos/gyuru01.mp4",
-        "cover": "/findings/cover/gyuru01.gif"
+        "cover": "/findings/cover/gyuru01.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -97,7 +102,8 @@
             "en": []
         },
         "src": "/findings/videos/textilszal.mp4",
-        "cover": "/findings/cover/textilszal.gif"
+        "cover": "/findings/cover/textilszal.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -113,7 +119,8 @@
             "en": []
         },
         "src": "/findings/videos/koporsoszeg.mp4",
-        "cover": "/findings/cover/koporsoszeg.gif"
+        "cover": "/findings/cover/koporsoszeg.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -129,7 +136,8 @@
             "en": []
         },
         "src": "/findings/videos/csillag.mp4",
-        "cover": "/findings/cover/csillag.gif"
+        "cover": "/findings/cover/csillag.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -146,7 +154,8 @@
             "en": []
         },
         "src": "/findings/videos/bross.mp4",
-        "cover": "/findings/cover/bross.gif"
+        "cover": "/findings/cover/bross.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -161,7 +170,8 @@
             "en": []
         },
         "src": "/findings/videos/textil.mp4",
-        "cover": "/findings/cover/textil.gif"
+        "cover": "/findings/cover/textil.gif",
+        "is_video": false
     },
     {
         "title": {
@@ -177,6 +187,7 @@
             "en": []
         },
         "src": "/findings/videos/ruhadisz.mp4",
-        "cover": "/findings/cover/ruhadisz.gif"
+        "cover": "/findings/cover/ruhadisz.gif",
+        "is_video": false
     }
 ]

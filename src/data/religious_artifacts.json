@@ -1,0 +1,677 @@
+[
+    {
+        "title": {
+            "hu": "TÖLCSÉRES POHÁR",
+            "en": "FUNNEL-SHAPED CUP",
+            "ro": "PAHAR TIP PÂLNIE"
+        },
+        "description": {
+            "hu": [
+                "A tölcséres pohárforma, mely a világi tárgykultúrában a 16. századtól terjedt el, a reformáció után egyre gyakrabban jelent meg egyházi használatban is. Ezüst poharunk bizonyos Antal Imre megrendelésére készült 1616-ban. A gyulakuti eklézsia tulajdonába Soós Judit és apja, Miklós adománya révén 1710-ben került. Úrvacsoraosztáshoz használhatták. Szájperemét egyszerű reneszánsz levélsor díszíti."
+            ],
+            "en": [
+                "The funnel-shaped cup, which became popular in secular material culture from the 16th century onwards, began to appear more frequently in ecclesiastical use after the Reformation. Our silver cup was commissioned by Imre Antal in 1616. It came into the possession of the church in Fântânele through the donation of Judit Soós and her father, Miklós, in 1710. It may have been used for communion. Its rim is adorned with a simple Renaissance leaf motif."
+            ],
+            "ro": [
+                "Cupa în formă de pâlnie, care a devenit larg răspândită în cultura de obiecte seculară începând cu secolul al XVI-lea, a apărut din ce în ce mai frecvent și în uzul bisericii după Reformă. Acest pahar de argint a fost comandat de un anume Imre Antal în 1616. Obiectul a intrat în proprietatea bisericii din Fântânele în 1710, prin donația lui Judit Soós și a tatălui ei, Miklós. A fost folosit pentru servirea Cinei Domnului. Marginea gurii paharului este decorată cu un rând simplu de frunze în stil renascentist."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 17. század eleje (1616)",
+                "anyag: aranyozott ezüst",
+                "technika: vert, vésett",
+                "díszítmény: peremén vésett levélsor; jelzés nélkül",
+                "feliratok: (belsejében): ANTAL EMRE / Si Deus / pro nobis / Quis contra / nos / Anno Domi(ni) / 1616. (alján): SOTs / T."
+            ],
+            "en": [
+                "Date: Early 17th century (1616)",
+                "Material: Gilded silver",
+                "Technique: Hammered, engraved",
+                "Decoration: Engraved leaf motif along the rim; unmarked",
+                "Inscriptions: (inside): ANTAL EMRE / Si Deus / pro nobis / Quis contra / nos / Anno Domi(ni) / 1616. (bottom): SOTs / T."
+            ],
+            "ro": [
+                "Datare: începutul secolului al XVII-lea (1616)",
+                "Material: argint aurit",
+                "Tehnică: bătut, gravat",
+                "Decor: rând de frunze gravate pe margine; fără marcaj",
+                "Inscripții: (interior): ANTAL EMRE / Si Deus / pro nobis / Quis contra / nos / Anno Domi(ni) / 1616. (talpă): SOTs / T."
+            ]
+        },
+        "src": "/religious_artifacts/tolcseres_pohar/tolcseres_pohar.jpg",
+        "cover": "/religious_artifacts/covers/tolcseres_pohar.jpg",
+        "images": [
+            "/religious_artifacts/tolcseres_pohar/tolcseres_pohar.jpg",
+            "/religious_artifacts/tolcseres_pohar/tolcseres_pohar_02.JPG"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "KENYÉROSZTÓ TÁNYÉR",
+            "en": "BREAD DISTRIBUTION PLATE",
+            "ro": "FARFURIE PENTRU ÎMPĂRȚIREA PÂINII"
+        },
+        "description": {
+            "hu": [
+                "A gyulakuti református gyülekezet első úrvacsorai készletéről Szövérdi Gáspár János gondoskodott. A középkori, zománcos kehely mellé a 17. század első évtizedeiben aranyozott ezüst kenyérosztó tányért készíttetett – mára csak ez maradt a református egyház tulajdonában."
+            ],
+            "en": [
+                "The first communion set of the Fântânele Reformed congregation was provided by János Szövérdi Gáspár. Alongside the medieval enameled chalice, in the early decades of the 17th century, he had a gilded silver bread distribution plate made – today, this is the only piece remaining in the possession of the Reformed church."
+            ],
+            "ro": [
+                "János Szövérdi Gáspár a furnizat congregației reformate din Fântânele primul ansamblu de rechizite pentru Cina Domnului. În primele decenii ale secolului al XVII-lea, potirul medieval emailat a fost însoțit de o farfurie aurită din argint, folosită pentru împărțirea pâinii – singura care a rămas în posesia bisericii reformate."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 17. század eleje",
+                "anyag: aranyozott ezüst",
+                "technika: vert, vésett",
+                "díszítmény: nincs; jelzés nélkül",
+                "felirata: a perem alján TM monogram karcolva"
+            ],
+            "en": [
+                "Date: Early 17th century",
+                "Material: Gilded silver",
+                "Technique: Hammered, engraved",
+                "Decoration: None; unmarked",
+                "Inscription: TM monogram scratched at the bottom edge of the rim"
+            ],
+            "ro": [
+                "Datare: începutul secolului al XVII-lea",
+                "Material: argint aurit",
+                "Tehnică: bătut, gravat",
+                "Decor: nedecorat; fără marcaj",
+                "Inscripția: monograma TM scrijelită sub margine"
+            ]
+        },
+        "src": "/religious_artifacts/tanyer/aDSC00471.jpg",
+        "cover": "/religious_artifacts/covers/tanyer.jpg",
+        "images": [
+            "/religious_artifacts/tanyer/aDSC00471.jpg",
+            "/religious_artifacts/tanyer/aDSC00472.jpg",
+            "/religious_artifacts/tanyer/aDSC00472.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "BOROSKANNA",
+            "en": "PITCHER",
+            "ro": "CANĂ DE VIN"
+        },
+        "description": {
+            "hu": [
+                "Uzoni Pál, gyulakuti Lázár János belső-szolnoki alispán prefektusa 1741-ben adományozott úrvacsorai boros ónkannája. A segesvári, ismeretlen mester a kanna díszítésére az erdélyi ónöntők körében igen kedvelt kompozíciót használt. Oldalán bazsarózsa és tulipánokból formált virágcsokor jelenik meg."
+            ],
+            "en": [
+                "The communion pitcher made of pewter was donated in 1741 by Pál Uzoni, prefect of János Lázár from Fântânele, who served as deputy sheriff of Inner Szolnok County. The decoration on the jug was crafted by an unknown master from Sighișoara, who employed a popular composition among Transylvanian pewter casters. On its side, a bouquet of peonies and tulips is depicted."
+            ],
+            "ro": [
+                "Pál Uzoni, prefectul lui János Lázár din Fântânele, vicecomitele comitatului Belső-Szolnok, a donat acest ulcior cu vin de împărtășanie, confecționat din cositor, în 1741. Meșterul necunoscut din Sighișoara a folosit pentru decorarea cănii o compoziție foarte populară printre turnătorii de cositor transilvăneni. Pe partea laterală se află un buchet de bujori și lalele."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század első fele (1741)",
+                "anyag: ón",
+                "technika: öntött, flechelt",
+                "díszítmény: kannatesten bazsarózsás virágcsokor, fülön virágszálak, fenékrózsán virágcsokor; a fül vállán Segesvár városjegye és értelmezhetetlen mesterjegy",
+                "felirata: A(nn)o 1741 / Uzoni Páll / tsináltatta."
+            ],
+            "en": [
+                "Date: First half of the 18th century (1741)",
+                "Material: Pewter",
+                "Technique: Cast, carved",
+                "Decoration: Bouquet of peonies on the pitcher body, flower stems on the handle, bouquet of flowers on the bottom; the town emblem of Sighișoara and an unreadable maker’s mark on the handle shoulder",
+                "Inscription: A(nn)o 1741 / Uzoni Páll / tsináltatta."
+            ],
+            "ro": [
+                "Datare: prima jumătate a secolului al XVIII-lea (1741)",
+                "Material: cositor",
+                "Tehnică: turnat, cioplit",
+                "Decor: buchet de bujori pe corpul cănii, fire de flori pe ureche, buchet de flori în partea de jos; pe urechi, marca orașului Sighișoara și o marcă de maestru neinteligibilă",
+                "Inscripția: A(nn)o 1741 / Uzoni Páll / tsináltatta."
+            ]
+        },
+        "src": "/religious_artifacts/covers/kupa_1.jpg",
+        "cover": "/religious_artifacts/covers/kupa_1.jpg",
+        "images": [
+            "/religious_artifacts/kupa1/aDSC00347.jpg",
+            "/religious_artifacts/kupa1/aDSC00348.jpg",
+            "/religious_artifacts/kupa1/aDSC00349.jpg",
+            "/religious_artifacts/kupa1/aDSC00357.jpg",
+            "/religious_artifacts/kupa1/aDSC00358.jpg",
+            "/religious_artifacts/kupa1/aDSC00360.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "BOROSKANNA",
+            "en": "PITCHER",
+            "ro": "CANĂ DE VIN"
+        },
+        "description": {
+            "hu": [
+                "Az egyszerű, mindössze peremrészein és öntött tagozatain díszített ónkanna a református gyülekezet első úrvacsorai készletéből maradt fenn. A kolozsvári Kannagyártó Márton ónműves műhelyéből származó alkotást már a 17. század közepén Gyulakután említik."
+            ],
+            "en": [
+                "The simple pewter jug, decorated only on its rims and cast sections, is a surviving piece from the first communion set of the Reformed congregation. This creation, originating from the workshop Márton Kannagyártó in Cluj, is mentioned as early as the mid-17th century in Fântânele."
+            ],
+            "ro": [
+                "Ulciorul simplu din cositor, decorat doar pe margini și pe secțiunile turnate, provine din ansamblul de rechizite pentru Cina Domnului al congregației reformate. Lucrarea, provenită din atelierul meșterului Márton Kannagyártó, este menționată încă de la mijlocul secolului al XVII-lea la Fântânele."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 17. század második fele",
+                "anyag: ón",
+                "technika: öntött, poncolt",
+                "díszítmény: peremeken poncolt palmettasorok, fülön virágmotívumok között fiait tápláló pelikán, fenékrózsán szőlőleveles csokor; fül vállán Kolozsvár városjegye",
+                "felirata: fül vállán elmosódott MRK monogram"
+            ],
+            "en": [
+                "Date: Second half of the 17th century",
+                "Material: Pewter",
+                "Technique: Cast, gauffered",
+                "Decoration: Gauffered palmette rows on the rims, a pelican feeding its young among flower motifs on the handle, a bunch of grape leaves on the bottom rose; Cluj city mark on the handle",
+                "Inscription: Blurred MRK monogram on the handle"
+            ],
+            "ro": [
+                "Datare: a doua jumătate a secolului al XVII-lea",
+                "Material: cositor",
+                "Tehnică: turnat, poansonat",
+                "Decor: șiruri de palmete poansonate pe margini, pelican hrănindu-și puii între motive florale pe ureche, buchet de frunze de viță de vie pe trandafirul de pe fund; marca orașului Cluj pe ureche",
+                "Inscripția: inițialele MRK estompate pe ureche"
+            ]
+        },
+        "src": "/religious_artifacts/kupa3/aDSC00347.jpg",
+        "cover": "/religious_artifacts/covers/kupa_3.jpg",
+        "images": [
+            "/religious_artifacts/kupa3/aDSC00374.jpg",
+            "/religious_artifacts/kupa3/aDSC00375.jpg",
+            "/religious_artifacts/kupa3/aDSC00377.jpg",
+            "/religious_artifacts/kupa3/aDSC00379.jpg",
+            "/religious_artifacts/kupa3/aDSC00380.jpg",
+            "/religious_artifacts/kupa3/aDSC00381.jpg",
+            "/religious_artifacts/kupa3/aDSC00382.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "BOROSKANNA",
+            "en": "PITCHER",
+            "ro": "CANĂ DE VIN"
+        },
+        "description": {
+            "hu": [
+                "A 17. század végén készült ónkanna a bordosi református eklézsia úrasztali készletéből származik. Az egyszerű ónedény oldalát később, a 18. század folyamán díszítették kitárt szárnyú sast ábrázoló motívummal. A leányegyházközség 19. századi megszűnése után a gyulakuti mater gyűjteményébe került."
+            ],
+            "en": [
+                "The pewter jug, crafted towards the end of the 17th century, originates from the communion set of the Reformed church in Bordoșiu. Its simple design was later embellished in the 18th century with a motif depicting an eagle with spread wings. Following the dissolution of the daughter congregation in the 19th century, it became part of the collection at Fântânele."
+            ],
+            "ro": [
+                "Cana din cositor confecționată la sfârșitul secolului al XVII-lea provine din ansamblul de rechizite pentru Cina Domnului al congregației reformate din Bordoșiu. Părțile laterale ale vasului simplu au fost decorate mai târziu, în secolul al XVIII-lea, cu un motiv de vultur cu aripile întinse. După desființarea filiei în secolul al XIX-lea, a intrat în colecția congregației-mamă de la Fântânele."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 17. század vége",
+                "anyag: ón",
+                "technika: öntött, flechelt, poncolt",
+                "díszítmény: kannatesten kitárt szárnyú sas, fülön virágmotívumok között maszk, peremeken palmettasorok; jelzés nélkül",
+                "felirata: fenekére karcolva: BARDOS / R. E."
+            ],
+            "en": [
+                "Date: Late 17th century",
+                "Material: Pewter",
+                "Technique: Cast, carved, gauffered",
+                "Decoration: An eagle with spread wings on the body of the jug, a mask between flower motifs on the handle, palmette rows on the rims; unmarked",
+                "Inscription: Scratched on the bottom: BARDOS / R. E."
+            ],
+            "ro": [
+                "Datare: sfârșitul secolului al XVII-lea",
+                "Material: cositor",
+                "Tehnică: turnat, cioplit, poansonat",
+                "Decor: vultur cu aripile întinse, mască între motive florale pe ureche, șiruri de palmete pe margini; fără marcaj",
+                "Inscripția: scrijelit pe talpă: BARDOS / R. E."
+            ]
+        },
+        "src": "/religious_artifacts/kupa2/aDSC00361.jpg",
+        "cover": "/religious_artifacts/covers/kupa_2.jpg",
+        "images": [
+            "/religious_artifacts/kupa2/aDSC00361.jpg",
+            "/religious_artifacts/kupa2/aDSC00362.jpg",
+            "/religious_artifacts/kupa2/aDSC00363.jpg",
+            "/religious_artifacts/kupa2/aDSC00364.jpg",
+            "/religious_artifacts/kupa2/aDSC00365.jpg",
+            "/religious_artifacts/kupa2/aDSC00372.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "1855-ben a megszűnt bordosi leányegyházközség tárgyait, köztük két textíliát, Gyulakutára szállították. Egyiket a felületébe illesztett 12 darab selyem- és fémfonalas csipkemező alapján azonosíthatjuk. Az úrvacsorai keszkenő a 18. század végén készülhetett, adományozója ismeretlen."
+            ],
+            "en": [
+                "In 1855, the belongings of the defunct Bordoșiu subsidiary parish, including two textiles, were transported to Fântânele. One of them can be identified based on its surface, which incorporates 12 pieces of silk and metal-thread lace fields. This communion cloth likely dates back to the late 18th century, with its donor remaining unknown."
+            ],
+            "ro": [
+                "În 1855, obiectele de cult ale fostei congregații din Bordoșiu, printre care și două textile, au fost transferate la Fântânele. Una dintre acestea poate fi identificată prin cele 12 câmpuri de dantelă din fire de mătase și metalice încorporate în suprafața sa. Această năframă pentru Cina Domnului a fost confecționată probabil spre sfârșitul secolului al XVIII-lea, donatorul fiind necunoscut."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század vége",
+                "anyag, technika: fehér pamutvászon-, valamint drapp selyem- és aranyozott fémfonalas csipkefelületekből összeállított, vászonsávval keretezett és fehér lenfonalas csipkével szegélyezett",
+                "díszítmény: növényi minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: Late 18th century",
+                "Material, technique: Assembled from white cotton fabric, drab silk, and gold-thread lace surfaces, framed with canvas strip and bordered with white linen thread lace",
+                "Decoration: Floral pattern",
+                "Inscription: None"
+            ],
+            "ro": [
+                "Datare: sfârșitul secolului al XVIII-lea",
+                "Material, tehnică: alcătuită din suprafețe de dantelă din bumbac alb, fire de mătase de culoare bej și metalice aurite, încadrată cu o bandă de pânză și tivită cu dantelă de in alb",
+                "Decor: model vegetal",
+                "Inscripția: fără inscripție"
+            ]
+        },
+        "src": "/religious_artifacts/textil7/aDSC09740.jpg",
+        "cover": "/religious_artifacts/covers/textil_7.jpg",
+        "images": [
+            "/religious_artifacts/textil7/aDSC09740.jpg",
+            "/religious_artifacts/textil7/aDSC09742.jpg",
+            "/religious_artifacts/textil7/aDSC09745.jpg",
+            "/religious_artifacts/textil7/aDSC09749.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "1855-ben a megszűnt bordosi leányegyházközség tárgyait, köztük két textíliát, Gyulakutára szállították. Egyiket a felületébe illesztett 12 darab selyem- és fémfonalas csipkemező alapján azonosíthatjuk. Az úrvacsorai keszkenő a 18. század végén készülhetett, adományozója ismeretlen."
+            ],
+            "en": [
+                "During the 17th to 18th centuries, noble embroideries, characterized by a blend of Renaissance and Turkish elements, flourished, with the largest number being preserved by our Reformed congregations. This white cotton cloth, embroidered with blue silk and gold-thread motifs, was crafted in the early 18th century and subsequently used for communion purposes."
+            ],
+            "ro": [
+                "Cele mai multe dintre broderiile nobiliare din secolele al XVII-lea și al XVIII-lea, combinând elemente tipic renascentiste și turcești, au fost păstrate de congregațiile noastre reformate. Năframa brodată cu fire de mătase albastră și fire metalice aurite a fost confecționată la începutul secolului al XVIII-lea, fiind folosită la Cina Domnului."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század első fele",
+                "anyag, technika: fehér pamutvászon, kék selyem- és aranyozott fémfonalas úrihímzéssel",
+                "díszítmény: növényi minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: First half of the 18th century",
+                "Material, technique: White cotton canvas, adorned with blue silk and gold-thread noble embroidery",
+                "Decoration: Plant motif",
+                "Inscription: None"
+            ],
+            "ro": [
+                "Datare: prima jumătate a secolului al XVIII-lea",
+                "Material, tehnică: pânză de bumbac alb, cu broderie nobilă din fire de mătase albastră și fire metalice aurite",
+                "Decor: model vegetal",
+                "Inscripția: fără inscripție"
+            ]
+        },
+        "src": "/religious_artifacts/textil9/aDSC09763.jpg",
+        "cover": "/religious_artifacts/covers/textil_9.jpg",
+        "images": [
+            "/religious_artifacts/textil9/aDSC09763.jpg",
+            "/religious_artifacts/textil9/aDSC09764.jpg",
+            "/religious_artifacts/textil9/aDSC09766.jpg",
+            "/religious_artifacts/textil9/aDSC09767.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "Az aranyozott fémfonallal készült, úrihímzéses textília a kézben hordott díszkeszkenők elrendezését követi. A központi rozettába illesztett, szerényebb kivitelezésű feliratát 1740-ben hímezték, amikor az értékes tárgyat Teleki Kata a férje, Lázár János központi birtokán lévő eklézsiának ajándékozta. Teleki Katát 1758-as halálakor a templom kriptájában helyezték örök nyugalomra."
+            ],
+            "en": [
+                "The textile, embroidered with gilt metal thread using the noble embroidery technique, follows the layout of handheld ceremonial handkerchiefs. The more modest inscription, fitted into the central rosette, was embroidered in 1740 when the valuable item was gifted to the church by Kata Teleki, the wife of János Lázár, on their central estate. Kata Teleki was laid to rest in the crypt of the church upon her death in 1758."
+            ],
+            "ro": [
+                "Țesătura brodată cu fire metalice aurite urmează modelul năframelor decorative purtate în mână. Inscripția mai modestă din rozeta centrală a fost brodată în 1740, când prețiosul obiect a fost donat de Kata Teleki congregației de pe moșia centrală a soțului ei, János Lázár. Kata Teleki a fost înmormântată în cripta bisericii în 1758."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század első fele (1740)",
+                "anyag, technika: fehér pamutvászon, aranyozott ezüst fémfonalas úrihímzéssel",
+                "díszítmény: növényi minta",
+                "felirata: közepén hímzett felirattal: ADGY  HÁLÁT ENNEK(,) AKI BÜNEIDET MEGBOTSATYA(,) GYOGYITTYA SERELMIDET(,) KIMENT MINDEN NYAVALYADBOL HIVEN. SOL. 103· w 2.3. BÁRO LÁZÁR JÁNOSNÉ TSINÁLTATTA MDCCXL ESZ(tendőben). G(róf) TELEKI KATA(,) GYALAKUTA."
+            ],
+            "en": [
+                "Date: First half of the 18th century (1740)",
+                "Material, technique: White cotton canvas, adorned with blue silk and gold-thread noble embroidery",
+                "Decoration: Plant motif",
+                "Inscription: Embroidered inscription in the center: ADGY  HÁLÁT ENNEK(,) AKI BÜNEIDET MEGBOTSATYA(,) GYOGYITTYA SERELMIDET(,) KIMENT MINDEN NYAVALYADBOL HIVEN. SOL. 103· w 2.3. BÁRO LÁZÁR JÁNOSNÉ TSINÁLTATTA MDCCXL ESZ(tendőben). G(róf) TELEKI KATA(,) GYALAKUTA."
+            ],
+            "ro": [
+                "Datare: prima jumătate a secolului al XVIII-lea (1740)",
+                "Material, tehnică: pânză de bumbac alb, cu broderie nobilă din fire metalice din argint aurit",
+                "Decor: model vegetal",
+                "Inscripția: brodată, în centru: ADGY  HÁLÁT ENNEK(,) AKI BÜNEIDET MEGBOTSATYA(,) GYOGYITTYA SERELMIDET(,) KIMENT MINDEN NYAVALYADBOL HIVEN. SOL. 103· w 2.3. BÁRO LÁZÁR JÁNOSNÉ TSINÁLTATTA MDCCXL ESZ(tendőben). G(róf) TELEKI KATA(,) GYALAKUTA."
+            ]
+        },
+        "src": "/religious_artifacts/textil8/aDSC09752.jpg",
+        "cover": "/religious_artifacts/covers/textil_8.jpg",
+        "images": [
+            "/religious_artifacts/textil8/aDSC09752.jpg",
+            "/religious_artifacts/textil8/aDSC09755.jpg",
+            "/religious_artifacts/textil8/aDSC09756.jpg",
+            "/religious_artifacts/textil8/aDSC09757.jpg",
+            "/religious_artifacts/textil8/aDSC09760.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "Gyulakuti Lázár Imre, Marosszék főkirálybírája és táblai ülnök 1670-ben új szőnyeget és aranyskófiummal hímzett úrvacsorai keszkenőt ajándékozott a református templom számára. Utóbbit napjainkban is a gyülekezet őrzi. A fehér vásznat nyolc azonos virágtő díszíti és vékony fémfonalas zsinór szegélyezi."
+            ],
+            "en": [
+                "In 1670, Imre Lázár from Fântânele, the chief royal judge of Mureș Seat and board councilor, gifted a new carpet and a communion cloth embroidered with golden threads to the Reformed church. This cloth is still preserved by the congregation today. The white canvas is adorned with eight identical floral motifs and edged with a thin metal-thread cord."
+            ],
+            "ro": [
+                "În 1670, Imre Lázár din Fântânele, judele regal suprem al Scaunului Mureșului și membru al curții de judecată, a donat bisericii reformate un covor nou și o năframă cusută cu fire de aur. Acesta din urmă este păstrată și în prezent de congregație. Pânza albă este împodobită cu opt tulpini de flori identice și mărginită de un șnur din fire metalice aurite."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 17. század második fele (1670)",
+                "anyag, technika: fehér pamutvászon, aranyozott ezüst fémfonalas úrihímzéssel, aranyozott fémfonalas zsinórszegéllyel",
+                "díszítmény: növényi minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: Late 17th century (1670)",
+                "Material, technique: White cotton canvas, embroidered with gold-plated silver thread, edged with gold-plated metallic cord",
+                "Decoration: Plant motif",
+                "Inscription: None"
+            ],
+            "ro": [
+                "Datare: a doua jumătate a secolului al XVII-lea (1670)",
+                "Material, tehnică: pânză de bumbac alb, cu broderie nobilă din fire metalice din argint aurit și tiv cu șnur din fire metalice aurite",
+                "Decor: model vegetal",
+                "Inscripția: fără inscripție"
+            ]
+        },
+        "src": "/religious_artifacts/textil1/aDSC00282.jpg",
+        "cover": "/religious_artifacts/covers/textil_1.jpg",
+        "images": [
+            "/religious_artifacts/textil1/aDSC00282.jpg",
+            "/religious_artifacts/textil1/aDSC00286.jpg",
+            "/religious_artifacts/textil1/aDSC00288.jpg",
+            "/religious_artifacts/textil1/aDSC00289.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI ABROSZ",
+            "en": "COMMUNION TABLECLOTH",
+            "ro": "FAȚĂ DE MASĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "A 18. század első felében készült úrvacsorai abrosz fehér vászonfelületét színes selyemmel- és fémfonallal hímzett forgórózsás minta tölti ki. Azonos mintájú textíliákat a balavásári, erdőszentgyörgyi és sepsiszentgyörgyi gyülekezetek őriznek."
+            ],
+            "en": [
+                "In the first half of the 19th century, one of the main supporters of the congregation was Zsuzsanna Intzédi, who enriched the church’s assets with several items, including textiles. In 1832, she donated a communion tablecloth and napkin. The tablecloth, crafted at the beginning of the 18th century, features colorful silk and metal thread embroidered floral motifs on a white linen base. In the center, there is a coat of arms surrounded by a wreath, with the initials K. B. on either side, indicating the former owner of the piece."
+            ],
+            "ro": [
+                "În prima jumătate a secolului al XIX-lea, unul dintre principalii susținători ai congregației a fost Zsuzsanna Intzédi, care i-a îmbogățit patrimoniul cu mai multe obiecte, inclusiv textile. În 1832, i-a donat parohiei o față de masă pentru Cina Domnului și o năframă. Fundalul de pânză albă al feței de masă, care a fost confecționată la începutul secolului al XVIII-lea, este decorat cu motive florale brodate cu fire de mătase colorate și metalice. Pe o parte și pe cealaltă a blazonului central cuprins într-o cunună se află inițialele K. B., care indică fostul proprietar al obiectului."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század első fele",
+                "anyag, technika: fehér lenvászon, színes selyem- és aranyozott fémfonalas úrihímzéssel",
+                "díszítmény: felületén szórt elrendezésben hét forgórózsa minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: 18th century",
+                "Material, technique: White linen canvas, trimmed with green silk thread, adorned with colored silk and gold- and silver-thread noble embroidery",
+                "Decoration: Central coat of arms surrounded by a wreath",
+                "Inscription: Centered with K.B. monogram"
+            ],
+            "ro": [
+                "Datare: secolul al XVIII-lea",
+                "Material, tehnică: pânză albă de in, tivită cu fir de mătase verde, mătase colorată și aurită, cu broderie nobilă din fire metalice din argint",
+                "Decor: blazon în centrul unei cununi la mijloc",
+                "Inscripția: monograma K. B. în centru"
+            ]
+        },
+        "src": "/religious_artifacts/textil4/aDSC09705.jpg",
+        "cover": "/religious_artifacts/covers/textil_4.jpg",
+        "images": [
+            "/religious_artifacts/textil4/aDSC09705.jpg",
+            "/religious_artifacts/textil4/aDSC09707.jpg",
+            "/religious_artifacts/textil4/aDSC09708.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI ABROSZ",
+            "en": "COMMUNION TABLECLOTH",
+            "ro": "FAȚĂ DE MASĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "A 19. század első felében a gyülekezet egyik fő támogatója Intzédi Zsuzsanna volt, aki több tárggyal, köztük textíliákkal gyarapította az egyházközség vagyonát. 1832-ben úrvacsorai abroszt és keszkenőt ajándékozott. A 18. század elején készült abrosz fehér vászonalapján színes selyem- és fémfonallal hímzett virágmotívumok jelennek meg, közepén koszorúba foglalt címer két oldalán K. B. Monogram, mely a tárgy egykori tulajdonosát jelöli."
+            ],
+            "en": [
+                "During the early 18th century, artisans created this communion tablecloth, adorned with a swirling rose pattern embroidered with colored silk and metal threads on a white linen surface. Textiles with identical patterns are also preserved by the congregations of Bălăușeri, Sângeorgiu de Pădure, and Sfântu Gheorghe."
+            ],
+            "ro": [
+                "Față de masă pentru Cina Domnului, confecționată în prima jumătate a secolului al XVIII-lea, cu o suprafață de pânză albă, decorată cu un model de trandafiri rotativi, brodat cu fire din mătase colorată și metalice. Țesături cu același model sunt păstrate de congregațiile din Bălăușeri, Sângeorgiu de Pădure și Sfântu Gheorghe."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század első fele",
+                "anyag, technika: fehér lenvászon, színes selyem- és aranyozott fémfonalas úrihímzéssel",
+                "díszítmény: felületén szórt elrendezésben hét forgórózsa minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: First half of the 18th century",
+                "Material, technique: White linen canvas, adorned with colored silk and gilt metal thread noble embroidery",
+                "Decoration: The surface features seven scattered swirling rose patterns",
+                "Inscription: None"
+            ],
+            "ro": [
+                "Datare: prima jumătate a secolului al XVIII-lea",
+                "Material, tehnică: pânză albă de in, cu broderie nobiliară cu fire de mătase colorate și aurite",
+                "Decor: aranjament împrăștiat de șapte modele de trandafiri rotativi",
+                "Inscripția: fără inscripție"
+            ]
+        },
+        "src": "/religious_artifacts/textil5/aDSC09723psd01.jpg",
+        "cover": "/religious_artifacts/covers/textil_5.jpg",
+        "images": [
+            "/religious_artifacts/textil5/aDSC09723psd01.jpg",
+            "/religious_artifacts/textil5/aDSC09725.jpg",
+            "/religious_artifacts/textil5/aDSC09726.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "A tengerkék selyemszövetből készült, rátéthímzéssel díszített keszkenő Intzédi Zsuzsanna 1832-es adományaként került a gyulakutai egyházközség gyűjteményébe. Jellemzői alapján annál jóval korábban, a 18. század közepén készült."
+            ],
+            "en": [
+                "The sea-blue silk fabric communion napkin, adorned with overlay embroidery, was donated to the Fântânele congregation’s collection by Zsuzsanna Intzédi in 1832. Based on its characteristics, it was likely crafted much earlier, around the mid-18th century."
+            ],
+            "ro": [
+                "Năframă confecționată din mătase bleumarin și brodată, donată de Zsuzsanna Intzédi parohiei din Fântânele în 1832. Caracteristicile sale sugerează că a fost realizată mult mai devreme, la mijlocul secolului al XVIII-lea."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 18. század közepe",
+                "anyag, technika: tengerkék selyem taft, aranyozott fémfonalas csipkeszegéllyel, színes selyem- és fémfonalas rátéthímzéssel",
+                "díszítmény: növényi minta",
+                "felirata: nincs"
+            ],
+            "en": [
+                "Date: Mid-18th century",
+                "Material, technique: Sea-blue silk taffeta, edged with gilt metallic thread lace, embellished with colored silk and metallic thread overlay embroidery",
+                "Decoration: Plant motif",
+                "Inscription: None"
+            ],
+            "ro": [
+                "Datare: mijlocul secolului al XVIII-lea",
+                "Material, tehnică: tafta de mătase bleumarin, tiv dantelat din fire metalice din aur, cu broderie din fire de mătase colorate și metalice",
+                "Decor: model vegetal",
+                "Inscripția: fără inscripție"
+            ]
+        },
+        "src": "/religious_artifacts/textil2/aDSC00300.jpg",
+        "cover": "/religious_artifacts/covers/textil_2.jpg",
+        "images": [
+            "/religious_artifacts/textil2/aDSC00300.jpg",
+            "/religious_artifacts/textil2/aDSC00306.jpg",
+            "/religious_artifacts/textil2/aDSC00308.jpg",
+            "/religious_artifacts/textil2/aDSC00311.jpg",
+            "/religious_artifacts/textil2/aDSC00313.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "ÚRVACSORAI KESZKENŐ",
+            "en": "COMMUNION CLOTH",
+            "ro": "NĂFRAMĂ PENTRU CINA DOMNULUI"
+        },
+        "description": {
+            "hu": [
+                "Az Oszmán Birodalomból származó keszkenő gyér vászonalapját aranyozott fémszalagokkal hímezték. 1846-os adományozásakor csipkével szegélyezték, közepére koszorúba foglalt feliratot hímeztek, amely ajándékozóját, Intzédi Zsuzsanna nevét örökíti meg."
+            ],
+            "en": [
+                "The sparse cotton canvas base of the napkin, originating from the Ottoman Empire, was embroidered with gilt metal ribbons. Upon its donation in 1846, it was edged with lace and embroidered with a wreath-like inscription in the center, commemorating its donor, Zsuzsanna Intzédi."
+            ],
+            "ro": [
+                "Fundalul de pânză subțire al năframei turcești a fost brodată cu benzi metalice aurite. În 1846, când a fost donată, a fost tivită cu dantelă, iar în centru i-a fost brodată o coroană de flori cu numele donatoarei, Zsuzsanna Intzédi."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 19. század közepe (1846)",
+                "anyag, technika: gyér szövésű fehér pamutvászon, aranyozott fémfonalas csipkeszegéllyel, aranyozott fémszalagos és -fonalas hímzéssel",
+                "díszítmény: növényi minta",
+                "felirata: hímzett: Gyalakuti / L(iber): B(áró): és G(róf): Lázár / Josefné(!) B(áró): Intzé/di Susánna(!) / 1846."
+            ],
+            "en": [
+                "Date: Mid-19th century (1846)",
+                "Material, technique: Sparse-woven white cotton canvas, trimmed with gilded metal-thread lace, adorned with gilt metal ribbon and thread embroidery",
+                "Decoration: Plant motif",
+                "Inscription: Embroidered: Gyalakuti / L(iber): B(áró): és G(róf): Lázár / Josefné(!) B(áró): Intzé/di Susánna(!) / 1846."
+            ],
+            "ro": [
+                "Datare: mijlocul secolului al XIX-lea (1846)",
+                "Material, tehnică: pânză albă de in țesută rar, tiv dantelat din fire metalice din aur, cu broderie cu benzi și fire metalice din aur",
+                "Decor: model vegetal",
+                "Inscripția: brodată: Gyalakuti / L(iber): B(áró): és G(róf): Lázár / Josefné(!) B(áró): Intzé/di Susánna(!) / 1846."
+            ]
+        },
+        "src": "/religious_artifacts/textil6/aDSC09730.jpg",
+        "cover": "/religious_artifacts/covers/textil_6.jpg",
+        "images": [
+            "/religious_artifacts/textil6/aDSC09730.jpg",
+            "/religious_artifacts/textil6/aDSC09733.jpg",
+            "/religious_artifacts/textil6/aDSC09735.jpg",
+            "/religious_artifacts/textil6/aDSC09736.jpg",
+            "/religious_artifacts/textil6/aDSC09739.jpg"
+        ],
+        "is_video": false
+    },
+    {
+        "title": {
+            "hu": "KEHELY",
+            "en": "CHALICE",
+            "ro": ""
+        },
+        "description": {
+            "hu": [
+                "A gyulakuti református egyházközség első úrasztali készletét Szövérdi Gáspár János adományozta a 17. század elején. Az 1643-as vizitációs jegyzőkönyv adatai szerint középkori zománcos kehellyel és kenyérosztó tányérral szerelte fel egyházát. A 15. század utolsó harmadában készült kehely korábbi történetét nem ismerjük, készíttetőjének a talpháton elhelyezett griffes címere azonosítatlan. A fejedelmi főudvarmesteri és portai követi tisztségeket betöltő Szövérdi kapcsolatai révén bárhol beszerezhette az ötvösművet, párhuzamok és a nóduszon megjelenő Jagelló-címer a közép-kelet európai régió északi területeit sejtetik készítési helyének. Az aranyozott ezüstből készült gótikus kehely díszítését áttört mérművek és zománcos felületek váltakozása jellemzi. A talphát karéjos keretű, rátétes medalionjaiban aranycsillagokkal szórt zöld és kék zománcos háttér előtt IHS és HAIA feliratok ismétlődnek. A nódusz gombjain a Jagelló-ház kék alapon, arany kettős keresztet ábrázoló címere, bemetszett kettős kereszt és vörös zománccal kitöltött, négy pólyás címerek jelennek meg. A szár oldallapjait és a liliomsorral lezárt kuppakosarat zöld zománcos négykaréjok, illetve rozettasorok díszítik. A kehely múzeumba helyezése közel két évtizedig foglalkoztatta a szakembereket. Pósta Béla kezdeményezésére 1916-ban az Erdélyi Múzeum tett ajánlatot megvásárlására, majd végül a presbitérium egyházi iskola építése céljával 1934-ben Bánffy Miklós egyházkerületi főgondnoknak adta el 250 000 lejért. Bánffy minden bizonnyal a magyarországi Vallás- és Közoktatási Minisztérium megbízásából vásárolta meg a műtárgyat, amely a kifizetés után  néhány héttel már a Magyar Nemzeti Múzeum gyűjteményébe került, ahol ma is őrzik."
+            ],
+            "en": [
+                "The first communion set of the Fântânele Reformed church was donated by János Szövérdi Gáspár in the early 17th century. According to records from the visitation of 1643, the church was equipped with a medieval enameled chalice and a bread distribution plate. A 15. század utolsó harmadában készült kehely korábbi történetét nem ismerjük, készíttetőjének a talpháton elhelyezett griffes címere azonosítatlan. The chalice, crafted in the last third of the 15th century, has an unknown previous history, with the coat of arms of its commissioner, displayed on its foot, remaining unidentified. Through his connections as seneschal and envoy to the Sublime Porte, Szövérdi could have sourced the metalwork from anywhere. Parallels and the appearance of the Jagiellonian coat of arms suggest the northern regions of the Central and Eastern European area as the possible place of its creation. The decoration of the Gothic chalice, made of gilded silver, is characterized by alternating pierced traceries and enameled surfaces. Its base features a scalloped border, with inset medallions adorned with golden stars against a green and blue enameled background, repeating the inscriptions IHS and HAIA. On the nodus buttons, the coat of arms of the Jagiellonian dynasty, depicting a double cross in gold on a blue background, is displayed, along with incised double crosses and four quartered coats of arms filled with red enamel. The sides of the stem and the cup-shaped bowl, closed with a lily border, are adorned with green enameled quatrefoils and rosette rows. The placement of the chalice in a museum occupied experts for nearly two decades. At the initiative of Béla Pósta, in 1916, the Transylvanian Museum made an offer to purchase it. Ultimately, in 1934, it was sold to Miklós Bánffy, the chief ecclesiastical superintendent, for 250,000 lei for the purpose of building a church school for the presbytery. Bánffy most likely purchased the artifact on behalf of the Hungarian Ministry of Religion and Public Education. Shortly after the payment, it was transferred to the collection of the Hungarian National Museum, where it is still preserved today."
+            ],
+            "ro": [
+                "Primul ansamblu de rechizite pentru Cina Domnului al parohiei reformate din Fântânele a fost donat de János Szövérdi Gáspár la începutul secolului al XVII-lea. Conform registrelor din 1643, acesta i-a donat bisericii un potir emailat din Evul Mediu și o farfurie pentru împărțirea pâinii. Istoria anterioară a potirului, realizat în ultima treime a secolului al XV-lea, nu este cunoscută; nu a fost identificat nici blazonul cu grifon, amplasat pe talpă, al celui care l-a comandat. Szövérdi, care a deținut funcția de majordom al principelui și a fost ambasador la Înalta Poartă, a putut obține obiectul de oriunde prin intermediul relațiilor sale. În orice caz, paralelele și blazonul dinastiei Jagiello de pe nodul sugerează zonele nordice ale Europei central-estice ca loc de proveniență. Decorul potirului gotic din argint aurit este caracterizat prin alternanța suprafețelor perforate și emailate. Inscripțiile IHS și HAIA apar repetate pe un fond de smalț verde și albastru, cu stele aurii împrăștiate în medalioanele încrustate, cu cadre lobate, de pe spatele tălpii. Pe nodul apare stema Casei de Jagiello pe un fond albastru, cu o cruce dublă de aur, o cruce dublă incizată și blazoane umplute cu smalț roșu. Fețele laterale ale trunchiului și capacul cu crini prezintă un decor lobat și rozete cu email verde. Plasarea potirului într-un muzeu i-a preocupat pe experți timp de aproape două decenii. În 1916, la inițiativa lui Béla Pósta, Muzeul Ardelean a făcut o ofertă de cumpărare, iar în 1934 prezbiteriul l-a vândut lui Miklós Bánffy, curatorul șef al parohiei, pentru 250 000 de lei, cu scopul de a construi o școală bisericească. Probabil că Bánffy a achiziționat obiectul în numele Ministerului Cultelor și Instrucțiunii Publice din Ungaria, iar la câteva săptămâni după efectuarea plății, acesta a fost transferat în colecția Muzeului Național Maghiar, unde este păstrat și în prezent."
+            ]
+        },
+        "details": {
+            "hu": [
+                "keltezés: 15. század utolsó harmada",
+                "anyag, technika: aranyozott ezüst, zománc, vert, öntött, áttört, vésett, ráillesztett"
+            ],
+            "en": [
+                "Date: Last third of the 15th century",
+                "Material, technique: Gilded silver, enamel, hammered, cast, pierced, engraved, applied"
+            ],
+            "ro": [
+                "Datare: ultima treime a secolului al XV-lea",
+                "Material, tehnică: argint aurit, email, bătut, turnat, perforat, gravat, aplicat"
+            ]
+        },
+        "src": "/religious_artifacts/kehely/kehelyforog_01.mp4",
+        "cover": "/religious_artifacts/covers/kehelyforog.gif",
+        "images": [
+            "/religious_artifacts/kehely/kehelyforog_01.mp4",
+            "/religious_artifacts/kehely/kehelyforog_02.mp4",
+            "/religious_artifacts/kehely/kehelyforog_03.mp4",
+            "/religious_artifacts/kehely/kehelyforog_04.mp4",
+            "/religious_artifacts/kehely/kehelyforog_05.mp4",
+            "/religious_artifacts/kehely/kehelyforog_06.mp4",
+            "/religious_artifacts/kehely/kehelyforog_07.mp4"
+        ],
+        "is_video": true
+    }
+]
