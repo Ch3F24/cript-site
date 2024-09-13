@@ -88,7 +88,7 @@ const Navigation = () => {
 
                     <div onClick={() => openModal('favor_items')}>
                         <img src={favor_items} alt="favor_items" className="cursor-pointer" />
-                        <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.favor_items")}</h2>
+                        <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.religious_artifacts")}</h2>
                     </div>
                 </div>
 

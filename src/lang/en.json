@@ -1,9 +1,9 @@
 {
     "navigation": {
-        "exploration": "exploration",
-        "movies": "movies",
-        "stories": "stories",
-        "findings": "findings",
-        "favor_items": "favor items"
+        "exploration": "Exploration",
+        "movies": "Films",
+        "stories": "The Story",
+        "findings": "Relics",
+        "religious_artifacts": "Artifacts"
     }
 }

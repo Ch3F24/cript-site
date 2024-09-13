@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react"
 import ModalClose from "./ModalClose"
 import videos from '../data/videos.json';
 import { useTranslation } from "react-i18next";
+import { use } from "i18next";
 
 interface Video {
     title: Record<'hu' | 'en' | 'ro', string>;
@@ -35,14 +36,15 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
         setSelected(videoList[key])
     }
 
+    const languageModeMap: Record<string, ['showing' | 'hidden', 'showing' | 'hidden']> = {
+        'en': ['showing', 'hidden'],
+        'ro': ['hidden', 'showing'],
+        'hu': ['hidden', 'hidden'],
+      };
+
     useEffect(() => {
         if (video.current) {
           const tracks = video.current.textTracks;
-          const languageModeMap: Record<string, ['showing' | 'hidden', 'showing' | 'hidden']> = {
-            'en': ['showing', 'hidden'],
-            'ro': ['hidden', 'showing'],
-            'hu': ['hidden', 'hidden'],
-          };
           
           const resolvedLanguage = i18n.resolvedLanguage || 'hu';
           const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
@@ -51,6 +53,21 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
           tracks[1].mode = mode1;
         }
       }, [i18n.resolvedLanguage]);
+
+      useEffect(() => {
+        if (video.current) {
+            video.current.textTracks[0].mode = 'hidden';
+            video.current.textTracks[1].mode = 'hidden';
+
+          const tracks = video.current.textTracks;
+          
+          const resolvedLanguage = i18n.resolvedLanguage || 'hu';
+          const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
+    
+          tracks[0].mode = mode0;
+          tracks[1].mode = mode1;
+        }
+      }, [selected]);
 
     return (
         <div className="relative h-full flex flex-col">
