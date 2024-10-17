@@ -1,4 +1,4 @@
-import React, {useState } from "react"
+import React, {useEffect, useState } from "react"
 import ModalClose from "./ModalClose"
 import { useTranslation } from "react-i18next";
 import SimpleGalleryItems from "./SimpleGalleryItems";
@@ -19,10 +19,14 @@ interface ImageProps {
 const Gallery:React.FC<{ closeModal: () => void, images: ImageProps[], title: string, isVideo?: boolean }> = ({ closeModal, images, title, isVideo = false }) => {
     const [selected, setSelected] = useState<null| ImageProps>(null);
     const [isStrech, setIsStrech] = useState(false);
-    const { i18n } = useTranslation()
+    const { i18n, t } = useTranslation()
 
     const handleClose = () => {
-        closeModal()
+        if (isStrech) {
+            return setIsStrech(false)
+        }
+
+        return closeModal()
     }
 
     const handleStrech = () => {
@@ -35,11 +39,16 @@ const Gallery:React.FC<{ closeModal: () => void, images: ImageProps[], title: st
         setSelected(images[key])
     }
 
+    useEffect(() => {
+        return setSelected(images[0])
+    }, [])
+
+
     return (
         <div className="relative h-full flex flex-col">
             <div className="flex items-center justify-center relative">
 
-                <h2 className="uppercase text-[80px] text-fuscous-grayd leading-none">{title}</h2>
+                <h2 className="uppercase text-[80px] text-fuscous-grayd leading-none">{t(title)}</h2>
 
                 <ModalClose closeModal={handleClose} />
 

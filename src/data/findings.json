@@ -2,14 +2,16 @@
     {
         "title": {
             "hu": "KOPONYA",
-            "en": "KOPONYA"
+            "en": "KOPONYA",
+            "ro": ""
         },
         "description": {
             "hu": [
                 "17. század",
                 "fiatal nő koponyamaradványa, zöldes pártadísz lenyomattal"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/koponya.mp4",
         "cover": "/findings/cover/koponya.gif",
@@ -18,7 +20,8 @@
     {
         "title": {
             "hu": "BETHLEN SZOFI KARIKAGYŰRŰJE",
-            "en": "Video2"
+            "en": "Video2",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -28,7 +31,8 @@
                 "díszítmény: átlőtt szív (belül)",
                 "felirata: Bethlen Szofi"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/gyuru02.mp4",
         "cover": "/findings/cover/gyuru02.gif",
@@ -38,7 +42,8 @@
     {
         "title": {
             "hu": "NŐI KÖVES GYŰRŰ",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -47,7 +52,8 @@
                 "technika: öntött, vésett, reszelt",
                 "díszítmény: türkiz kő"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/gyuru03.mp4",
         "cover": "/findings/cover/gyuru03.gif",
@@ -56,7 +62,8 @@
     {
         "title": {
             "hu": "VIRÁGOS NŐI GYŰRŰ",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -65,7 +72,8 @@
                 "technika: öntött, vésett, reszelt",
                 "díszítmény: fejrésze virágszirmokat utánoz, türkiz kövekkel díszített"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/gyuru04.mp4",
         "cover": "/findings/cover/gyuru04.gif",
@@ -74,7 +82,8 @@
     {
         "title": {
             "hu": "PECSÉTGYŰRŰ",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -83,7 +92,8 @@
                 "technika: öntött, vésett",
                 "díszítmény: valószínűleg családi címert ábrázoló fejrész"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/gyuru01.mp4",
         "cover": "/findings/cover/gyuru01.gif",
@@ -92,14 +102,16 @@
     {
         "title": {
             "hu": "TEXTILSZÁL",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
                 "keltezés: 17. század",
                 "anyag: növényi eredetű fonal"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/textilszal.mp4",
         "cover": "/findings/cover/textilszal.gif",
@@ -108,7 +120,8 @@
     {
         "title": {
             "hu": "KOPORSÓSZEG",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -116,7 +129,8 @@
                 "anyag: ezüst",
                 "technika: kalapált, reszelt"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/koporsoszeg.mp4",
         "cover": "/findings/cover/koporsoszeg.gif",
@@ -125,7 +139,8 @@
     {
         "title": {
             "hu": "CSILLAG",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -133,7 +148,8 @@
                 "anyag: ezüst",
                 "technika: kalapált, reszelt"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/csillag.mp4",
         "cover": "/findings/cover/csillag.gif",
@@ -142,7 +158,8 @@
     {
         "title": {
             "hu": "BROSS",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -151,7 +168,8 @@
                 "anyag: arany",
                 "technika: öntött, hajlított"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/bross.mp4",
         "cover": "/findings/cover/bross.gif",
@@ -160,14 +178,16 @@
     {
         "title": {
             "hu": "TEXTILMARADVÁNY",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
                 "keltezés: 17. század",
                 "anyag: fémszállal díszített fonal"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/textil.mp4",
         "cover": "/findings/cover/textil.gif",
@@ -176,7 +196,8 @@
     {
         "title": {
             "hu": "RUHADÍSZ",
-            "en": "Video3"
+            "en": "Video3",
+            "ro": ""
         },
         "description": {
             "hu": [
@@ -184,7 +205,8 @@
                 "anyag: vas",
                 "technika: kalapált, hajlított"
             ],
-            "en": []
+            "en": [],
+            "ro": []
         },
         "src": "/findings/videos/ruhadisz.mp4",
         "cover": "/findings/cover/ruhadisz.gif",

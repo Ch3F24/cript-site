@@ -17,11 +17,11 @@ const MultipleGalleryItems: React.FC<{isVideo?: boolean, images: string[], isStr
     },[images])
 
     const handlePrevImage = () => {
-        !isFirstImage() && setSelected(images[images.indexOf(selected) - 1])
+        isFirstImage() ? setSelected(images[images.length - 1]) : setSelected(images[images.indexOf(selected) - 1])
     }
 
     const handleNextImage = () => {
-        !isLastImage() && setSelected(images[images.indexOf(selected) + 1])
+        isLastImage() ? setSelected(images[0]) : setSelected(images[images.indexOf(selected) + 1])
     }
     return (
         <>

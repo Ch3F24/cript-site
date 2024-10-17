@@ -4,10 +4,6 @@ import HuFlag from '/hu_flag.png';
 import RoFlag from '/ro_flag.png';
 
 const lngs = {
-  en: { 
-    nativeName: 'English',
-    flag: EnFlag
-  },
   hu: { 
     nativeName: 'Hungarian',
     flag: HuFlag
@@ -15,6 +11,10 @@ const lngs = {
   ro: { 
     nativeName: 'Romanian',
     flag: RoFlag
+  },
+  en: { 
+    nativeName: 'English',
+    flag: EnFlag
   },
 };
 

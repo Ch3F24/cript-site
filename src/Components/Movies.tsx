@@ -21,8 +21,16 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
     const videoList = videos as Video[];
 
     const handleClose = () => {
-        closeModal()
+        if (isStrech) {
+            return setIsStrech(false)
+        }
+
+        return closeModal()
     }
+
+    video.current?.addEventListener('ended', () => {
+        console.log('ended')
+    });
 
     const handleStrech = () => {
         setIsStrech(() => {
@@ -42,15 +50,21 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
         'hu': ['hidden', 'hidden'],
       };
 
+      const setUpTracks = () => {
+        if (video.current) {
+            const tracks = video.current.textTracks;
+            
+            const resolvedLanguage = i18n.resolvedLanguage || 'hu';
+            const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
+      
+            tracks[0].mode = mode0;
+            tracks[1].mode = mode1;
+          }
+      }
+
     useEffect(() => {
         if (video.current) {
-          const tracks = video.current.textTracks;
-          
-          const resolvedLanguage = i18n.resolvedLanguage || 'hu';
-          const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
-    
-          tracks[0].mode = mode0;
-          tracks[1].mode = mode1;
+            setUpTracks()
         }
       }, [i18n.resolvedLanguage]);
 
@@ -59,15 +73,14 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
             video.current.textTracks[0].mode = 'hidden';
             video.current.textTracks[1].mode = 'hidden';
 
-          const tracks = video.current.textTracks;
-          
-          const resolvedLanguage = i18n.resolvedLanguage || 'hu';
-          const [mode0, mode1] = languageModeMap[resolvedLanguage] || ['hidden', 'hidden'];
-    
-          tracks[0].mode = mode0;
-          tracks[1].mode = mode1;
+            setUpTracks()
         }
       }, [selected]);
+
+      useEffect(() => {
+        return setSelected(videoList[0])
+        
+      }, [])
 
     return (
         <div className="relative h-full flex flex-col">
@@ -99,7 +112,10 @@ const Movies:React.FC<{ closeModal: () => void }> = ({ closeModal }) => {
                             </div>
                             
                             <div className="h-full mx-auto relative">
-                                <video ref={video} className="w-auto h-full mx-auto" src={selected?.src} autoPlay playsInline disablePictureInPicture>
+                                <video ref={video} 
+                                        className="w-auto h-full mx-auto" 
+                                        onEnded={() => console.log('dsa')}
+                                        src={selected?.src} autoPlay playsInline disablePictureInPicture>
                                     <track
                                         label="English"
                                         kind="subtitles"
