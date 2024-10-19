@@ -11,3 +11,6 @@
 html, body {
     overscroll-behavior: none;
 }
+html > * {
+    user-select: none;
+}
