@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from "react"
 import ModalClose from "./ModalClose"
 import videos from '../data/videos.json';
 import { useTranslation } from "react-i18next";
-import { use } from "i18next";
 
 interface Video {
     title: Record<'hu' | 'en' | 'ro', string>;

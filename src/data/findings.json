@@ -2,16 +2,23 @@
     {
         "title": {
             "hu": "KOPONYA",
-            "en": "KOPONYA",
-            "ro": ""
+            "en": "SCULL",
+            "ro": "CRANIU"
         },
         "description": {
             "hu": [
                 "17. század",
                 "fiatal nő koponyamaradványa, zöldes pártadísz lenyomattal"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "dating: 17th century",
+                "description: a skull discovered in the crypt"
+
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "descriere: rămășiță craniană descoperită în criptă"
+            ]
         },
         "src": "/findings/videos/koponya.mp4",
         "cover": "/findings/cover/koponya.gif",
@@ -20,8 +27,8 @@
     {
         "title": {
             "hu": "BETHLEN SZOFI KARIKAGYŰRŰJE",
-            "en": "Video2",
-            "ro": ""
+            "en": "BETHLEN SOFI’S WEDDING RING",
+            "ro": "VERIGHETA LUI SOFI BETHLEN"
         },
         "description": {
             "hu": [
@@ -31,8 +38,19 @@
                 "díszítmény: átlőtt szív (belül)",
                 "felirata: Bethlen Szofi"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: gold",
+                "technique: cast, engraved",
+                "decoration: pierced heart (inside)"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: aur",
+                "tehnică: turnat, gravat",
+                "ornament: inimă lovită de săgeată (în interior)",
+                "inscripție: „Bethlen Szofi”"
+            ]
         },
         "src": "/findings/videos/gyuru02.mp4",
         "cover": "/findings/cover/gyuru02.gif",
@@ -42,8 +60,8 @@
     {
         "title": {
             "hu": "NŐI KÖVES GYŰRŰ",
-            "en": "Video3",
-            "ro": ""
+            "en": "WOMEN’S STONE RING",
+            "ro": "INEL DAMĂ CU PIETRE"
         },
         "description": {
             "hu": [
@@ -52,8 +70,18 @@
                 "technika: öntött, vésett, reszelt",
                 "díszítmény: türkiz kő"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: gold",
+                "technique: cast, engraved, filed",
+                "decoration: turquoise stone"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: aur",
+                "tehnică: turnat, gravat, limat",
+                "ornament: piatră turcoaz"
+            ]
         },
         "src": "/findings/videos/gyuru03.mp4",
         "cover": "/findings/cover/gyuru03.gif",
@@ -62,8 +90,8 @@
     {
         "title": {
             "hu": "VIRÁGOS NŐI GYŰRŰ",
-            "en": "Video3",
-            "ro": ""
+            "en": "FLOWER WOMEN’S RING",
+            "ro": "INEL DAMĂ CU DECOR FLORAL"
         },
         "description": {
             "hu": [
@@ -72,8 +100,18 @@
                 "technika: öntött, vésett, reszelt",
                 "díszítmény: fejrésze virágszirmokat utánoz, türkiz kövekkel díszített"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: gold",
+                "technique: cast, engraved, filed",
+                "decoration: headpiece imitating flower petals, decorated with turquoise stones"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: aur",
+                "tehnică: turnat, gravat, limat",
+                "decor: petale de flori, pietre de turcoaz"
+            ]
         },
         "src": "/findings/videos/gyuru04.mp4",
         "cover": "/findings/cover/gyuru04.gif",
@@ -82,8 +120,8 @@
     {
         "title": {
             "hu": "PECSÉTGYŰRŰ",
-            "en": "Video3",
-            "ro": ""
+            "en": "RING",
+            "ro": "INEL"
         },
         "description": {
             "hu": [
@@ -92,8 +130,19 @@
                 "technika: öntött, vésett",
                 "díszítmény: valószínűleg családi címert ábrázoló fejrész"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "datare: secolul XVII",
+                "material: aur",
+                "tehnică: turnat, gravat",
+                "ornament: probabil stemă de familie"
+                
+            ],
+            "ro": [
+                "date: 17th century",
+                "material: gold",
+                "technique: cast, engraved",
+                "decoration: headpiece probably depicting the family coat of arms"
+            ]
         },
         "src": "/findings/videos/gyuru01.mp4",
         "cover": "/findings/cover/gyuru01.gif",
@@ -102,16 +151,23 @@
     {
         "title": {
             "hu": "TEXTILSZÁL",
-            "en": "Video3",
-            "ro": ""
+            "en": "YARN",
+            "ro": "FIR TEXTIL"
         },
         "description": {
             "hu": [
                 "keltezés: 17. század",
                 "anyag: növényi eredetű fonal"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: yarn of vegetable origin"
+
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: origine vegetală"
+            ]
         },
         "src": "/findings/videos/textilszal.mp4",
         "cover": "/findings/cover/textilszal.gif",
@@ -120,8 +176,8 @@
     {
         "title": {
             "hu": "KOPORSÓSZEG",
-            "en": "Video3",
-            "ro": ""
+            "en": "COFFIN ACCESSORIES",
+            "ro": "CUIE SICRIU"
         },
         "description": {
             "hu": [
@@ -129,8 +185,16 @@
                 "anyag: ezüst",
                 "technika: kalapált, reszelt"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "dating: 17th century",
+                "material: silver",
+                "technique: hammered, filed"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: argint",
+                "tehnică: ciocănit, limat"
+            ]
         },
         "src": "/findings/videos/koporsoszeg.mp4",
         "cover": "/findings/cover/koporsoszeg.gif",
@@ -139,8 +203,8 @@
     {
         "title": {
             "hu": "CSILLAG",
-            "en": "Video3",
-            "ro": ""
+            "en": "STAR",
+            "ro": "STEA"
         },
         "description": {
             "hu": [
@@ -148,8 +212,16 @@
                 "anyag: ezüst",
                 "technika: kalapált, reszelt"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: silver",
+                "technique: hammered, filed"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: argint",
+                "tehnică: ciocănit, limat"
+            ]
         },
         "src": "/findings/videos/csillag.mp4",
         "cover": "/findings/cover/csillag.gif",
@@ -158,8 +230,8 @@
     {
         "title": {
             "hu": "BROSS",
-            "en": "Video3",
-            "ro": ""
+            "en": "BROȘĂ",
+            "ro": "BROCHE"
         },
         "description": {
             "hu": [
@@ -168,8 +240,18 @@
                 "anyag: arany",
                 "technika: öntött, hajlított"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "origin: Ottoman Empire",
+                "material: gold",
+                "technique: cast, bent"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "origine: Imperiul Otoman",
+                "material: aur",
+                "tehnică: turnat, îndoit"
+            ]
         },
         "src": "/findings/videos/bross.mp4",
         "cover": "/findings/cover/bross.gif",
@@ -178,16 +260,22 @@
     {
         "title": {
             "hu": "TEXTILMARADVÁNY",
-            "en": "Video3",
-            "ro": ""
+            "en": "TEXTILE FRAGMENT",
+            "ro": "FRAGMENT TEXTIL"
         },
         "description": {
             "hu": [
                 "keltezés: 17. század",
                 "anyag: fémszállal díszített fonal"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: thread wrapped with metal thread"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: ață învelită cu fir metalic"
+            ]
         },
         "src": "/findings/videos/textil.mp4",
         "cover": "/findings/cover/textil.gif",
@@ -196,8 +284,8 @@
     {
         "title": {
             "hu": "RUHADÍSZ",
-            "en": "Video3",
-            "ro": ""
+            "en": "DRESS ORNAMENT",
+            "ro": "ORNAMENT VESTIMENTAR"
         },
         "description": {
             "hu": [
@@ -205,8 +293,16 @@
                 "anyag: vas",
                 "technika: kalapált, hajlított"
             ],
-            "en": [],
-            "ro": []
+            "en": [
+                "date: 17th century",
+                "material: iron",
+                "technique: hammered, bent"
+            ],
+            "ro": [
+                "datare: secolul XVII",
+                "material: fier",
+                "tehnică: ciocănit, îndoit"
+            ]
         },
         "src": "/findings/videos/ruhadisz.mp4",
         "cover": "/findings/cover/ruhadisz.gif",
