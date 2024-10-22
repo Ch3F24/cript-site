@@ -4,7 +4,7 @@ import stories from "../../public/svg/stories.svg"
 import findings from "../../public/svg/findings.svg"
 import favor_items from "../../public/svg/favor_items.svg"
 import Modal from "./Modal"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import LanguageSwitcher from "./LangSwitcher"
 import { useTranslation } from "react-i18next"
 import { useVideoContext } from '../Context/VideoContext';
@@ -18,7 +18,7 @@ type contentType = 'exploration' | 'movies' | 'stories' | 'findings' | 'favor_it
 
 
 const Navigation = () => {
-    const { startVideo, isPlaying } = useVideoContext();
+    const { startVideo, isPlaying, isPaused } = useVideoContext();
     const [content, setContent] = useState<null | JSX.Element>(null);
 
     const { t } = useTranslation()
@@ -47,9 +47,13 @@ const Navigation = () => {
         }        
     }
 
+    useEffect(() => {
+        console.log(isPaused)
+    }, [isPaused])
+
 
     return (
-        <div className="h-full relative">
+        <div className="h-full relative" onClick={isPlaying}>
             
             <LanguageSwitcher />
 
@@ -66,7 +70,7 @@ const Navigation = () => {
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.exploration")}</h2>
                     </div>
 
-                    <div onClick={() => openModal('movies')}>
+                    <div onClick={() => openModal('movies')} className={isPlaying() ? 'grayscale': 'semmi'}>
                         <img src={movies} alt="movies" className="cursor-pointer" />
                         <h2 className="text-fuscous-grayd text-6xl uppercase text-center -mt-16">{t("navigation.movies")}</h2>
                     </div>
